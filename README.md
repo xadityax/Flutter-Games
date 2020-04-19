@@ -1,6 +1,10 @@
-# protac
+# ProTac
 
-A Simple tic tac toe game.
+A Simple tic tac toe game made using Flutter.
+Material App.
+Rounded Buttons.
+Custom Animations.
+GridView.
 
 ## Getting Started
 
