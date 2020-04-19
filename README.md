@@ -3,8 +3,7 @@
 A Simple tic tac toe game made using Flutter.
 
 Material App.
-
-![UI] (https://github.com/xadityax/Flutter-Games/blob/master/Screenshot_1587241023.png)
+![UI](https://github.com/xadityax/Flutter-Games/blob/master/Screenshot_1587241023.png) ![UI](https://github.com/xadityax/Flutter-Games/blob/master/Screenshot_1587241114.png) ![UI](https://github.com/xadityax/Flutter-Games/blob/master/Screenshot_1587241124.png)
 
 
 Rounded Buttons.
